@@ -14,7 +14,7 @@ Desafio aplicado no Bootcamp GoStack da Rocketseat
 - [Tecnologia utilizada](#-tecnologia-utilizada)
 - [Objetivos](#-objetivos)
 - [Testes de Validação](#-testes-de-validação)
-- [Para clonar, acessar e executar o projeto](#-para-clonar-acessar-e-executar-o-projeto)
+- [Para clonar e executar o projeto](#-para-clonar-e-executar-o-projeto)
 - [Para executar os testes](#-para-executar-os-teste)
 
 
@@ -73,7 +73,7 @@ Para passar neste teste, a aplicação deve validar na rota de like se o id do r
 
 ---
 
-## ⚙ Para clonar e acessar e executar o projeto
+## ⚙ Para clonar e executar o projeto
 
 ```bash
   # clonar o projeto

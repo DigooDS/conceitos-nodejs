@@ -15,7 +15,7 @@ Desafio aplicado no Bootcamp GoStack da Rocketseat
 - [Objetivos](#-objetivos)
 - [Testes de Validação](#-testes-de-validação)
 - [Para clonar e executar o projeto](#-para-clonar-e-executar-o-projeto)
-- [Para executar os testes](#-para-executar-os-teste)
+- [Para executar os testes](#-para-executar-os-testes)
 
 
 ---
